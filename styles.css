@@ -177,3 +177,16 @@ section2 {
     font-weight: 900;
     border-style: solid;
 }
+
+footer {
+    background: #1F2937;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    color: white;
+    width: 60%;
+    margin: 0 auto;
+    padding: 50px;
+}
