@@ -145,3 +145,35 @@ section {
     font-size: 24px;
     font-weight: 500;
 }
+
+section2 {
+    background-color: white;
+}
+
+.finalsection-container {
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    margin: 150px auto;
+    padding: 100px;
+    background-color: #3882F8;
+    border-radius: 8px;
+}
+
+.action {
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.finalsection-container .action .action-subtext {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.signup.two {
+    width: 12%;
+    border-color: white;
+    font-weight: 900;
+    border-style: solid;
+}
