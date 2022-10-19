@@ -85,3 +85,37 @@ header .hero-container .right {
     border-radius: 8px;
     width: 20%;
 }
+
+main {
+    background-color: white;
+    text-align: center;
+}
+
+.randominfo {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.square-container {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 100px;
+    padding: 100px;
+}
+
+.square-container2 {
+    max-width: 100px;
+}
+
+main .square-container .square-container2 img {
+    height: 100%;
+    width: 100%;
+    font-size: 36px;
+    background-color: green;
+    border-style: solid black;
+    border-radius: 8px;
+}
