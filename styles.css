@@ -119,3 +119,29 @@ main .square-container .square-container2 img {
     border-style: solid black;
     border-radius: 8px;
 }
+
+section {
+    background-color: #E5E7EB;
+}
+
+.quote-container {
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    margin: 0 auto;
+    flex-direction: column;
+    padding: 100px;
+    gap: 30px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.author  {
+    align-self: flex-end;
+    font-size: 24px;
+    font-weight: 500;
+}
